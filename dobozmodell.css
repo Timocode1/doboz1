@@ -1,0 +1,65 @@
+header{
+    border-radius: 10px;
+    border-left: 5px solid black;
+    border-right: 5px solid black; 
+    margin: 20px;
+    padding: 50px;
+
+
+}
+
+#kontener{
+    display: flex ;
+    justify-content: space-around;
+margin: 20px;
+}
+
+.margo{
+    margin: 10px 20px;
+}
+
+#elso{
+    padding-left:80px; 
+    padding-right: 20px;
+    border: 3px solid black  ;
+
+}
+
+#melette{
+    padding-right: 80px;
+    padding-left: 20px;
+    border: 3px solid black  ;
+}
+
+#kozepso{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    text-align: center;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 30px;
+
+}
+
+#bal{
+margin-left: 20px;
+margin-right: 500px;
+
+}
+
+
+#jobb{
+margin-left: 500px;
+margin-right: 20px;
+}
+
+
+
+footer{
+    margin-top: 50px;
+    margin-right: 20px;
+    float: right;
+}
